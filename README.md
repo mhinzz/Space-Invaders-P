@@ -1,0 +1,1 @@
+A simple python implementation of the classic game Space Invaders done with PyGame.
